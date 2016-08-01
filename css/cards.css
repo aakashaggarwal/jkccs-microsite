@@ -3205,10 +3205,11 @@ a:hover .lnk-icon-right {
 @media screen and (min-width: 992px) {
   .fh5co-pricing-style-2 .pricing-item {
     margin: 1.5em 0;
+    padding: 5px;
   }
   .fh5co-pricing-style-2 .pricing-item.pricing-item--featured {
     z-index: 10;
-    margin: .5em 0;
+    padding: 5px;
     font-size: 1.15em;
   }
 }

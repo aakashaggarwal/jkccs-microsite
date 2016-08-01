@@ -68,7 +68,7 @@ a {
 	color: $brand-white;
 	border: 2px solid $brand-primary;
 	&:hover, &:focus, &:active {
-		background: darken($brand-primary, 5%)!important;
+		background: #bocb1f !important;
 		border-color: darken($brand-primary, 5%)!important;
 	}
 	&.btn-outline {

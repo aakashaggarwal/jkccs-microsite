@@ -102,13 +102,13 @@ a:hover, a:focus, a:active {
 }
 
 .btn-primary {
-  background: #1784fb;
+  background: #b0cb1f;
   color: #fff;
-  border: 2px solid #1784fb;
+  border: 2px solid #b0cb1f;
 }
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
-  background: #0477f4 !important;
-  border-color: #0477f4 !important;
+  background:  #b0cb1f !important;
+  border-color: #b0cb1f !important;
 }
 .btn-primary.btn-outline {
   background: transparent;
@@ -3174,7 +3174,7 @@ a:hover .lnk-icon-right {
 }
 
 .fh5co-pricing-style-2 {
-  background: #58ca7e;
+  background: #b7cc80;
 }
 .fh5co-pricing-style-2 .fh5co-heading {
   color: #fff;

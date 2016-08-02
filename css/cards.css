@@ -107,8 +107,8 @@ a:hover, a:focus, a:active {
   border: 2px solid #b0cb1f;
 }
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
-  background:  #b0cb1f !important;
-  border-color: #b0cb1f !important;
+  background:  #b7cc80 !important;
+  border-color: #b7cc80 !important;
 }
 .btn-primary.btn-outline {
   background: transparent;

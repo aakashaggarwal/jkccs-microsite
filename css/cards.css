@@ -3609,7 +3609,7 @@ a:hover .lnk-icon-right {
 #scroll {
     position:fixed;
     right:10px;
-    bottom:10px;
+    bottom:50px;
     cursor:pointer;
     width:50px;
     height:50px;

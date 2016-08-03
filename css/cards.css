@@ -38,6 +38,18 @@ body {
     float: left;
     width: 100%;
   }
+  .support {
+    display: none !important;
+  }
+  .mouse {
+    display: none !important;
+  }
+  .overlay {
+    font-size: 10px !important;
+  }
+  .share {
+    font-size: 10px !important;
+  }
 }
 
 h1, h2, h3, h4, h5, h6 {

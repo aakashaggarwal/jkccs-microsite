@@ -3209,7 +3209,6 @@ a:hover .lnk-icon-right {
   .fh5co-pricing-style-2 .pricing-item.pricing-item--featured {
     z-index: 10;
     margin: .5em 0;
-    font-size: 1.15em;
   }
 }
 .fh5co-pricing-style-2 .pricing-title {
@@ -3486,7 +3485,7 @@ a:hover .lnk-icon-right {
     left: 0;
   top: auto;
   bottom: 0;
-  padding: 1em;
+  padding: 0.5em;
   height: 4em;
   background: #b7cc80;
   color: #3c4a50;
